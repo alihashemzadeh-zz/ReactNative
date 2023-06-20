@@ -1,0 +1,54 @@
+.container{
+    flex:1px;
+    background: #fff;
+    align-items: center;
+    justify-content: center;
+}
+.text {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom:20px;
+}
+.desingCircle1{
+    position:absolute;
+    top:-34px;
+    right:-122px;
+    width: 263px;
+    height: 266px;
+    border-radius: 130px;
+    background-color: rgba(68, 196, 173, 0.42);
+  }
+  .desingCircle2{
+    position:absolute;
+    top:-149px;
+    right:-26px;
+    width: 263px;
+    height: 266px;
+    border-radius: 130px;
+    background-color: rgba(68, 196, 173, 0.42);
+  }
+  .button{
+    width: 308px;
+    height: 55px;
+    background-color: #498A7E;
+    color:#ffffff;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    line-height: 55px;
+    margin-top:25px;
+}
+.textBox{
+    margin-top:15px;
+    width: 308px;
+    height: 55px;
+    background: #FFFFFF;
+    border: 1px solid rgba(77, 94, 84, 0.3);
+    border-radius: 25px;
+    font-size: 20px;
+    line-height: 55px;
+    align-items: center;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.4);
+  }
